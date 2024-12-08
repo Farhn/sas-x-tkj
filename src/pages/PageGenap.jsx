@@ -18,7 +18,7 @@ export default function PageGenap(){
                     <p>
                         Memajukan era digitalisasi segmen pasar di Indonesia melalui pengembangan ide visual pada sektor industri
                     </p>
-                    <a href="profil" className="py-2 px-6 bg-slate-800 text-white rounded-sm font-semibold"> Baca Selengkapnya</a>
+                    <a href="#profil" className="py-2 px-6 bg-slate-800 text-white rounded-sm font-semibold"> Baca Selengkapnya</a>
                 </div>
             </section>
 

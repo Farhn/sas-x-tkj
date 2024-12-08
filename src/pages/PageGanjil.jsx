@@ -5,9 +5,9 @@ export default function PageGanjil(goToHome) {
                 <img src="\logoCB white.svg" alt="logo Cendika Bangsa" className="w-1/6" />
                 <nav>
                     <ul className="flex space-x-4 font-semibold">
-                        <li><a href="profil">Profil</a></li>
-                        <li><a href="#">Program</a></li>
-                        <li><a href="#">Daftar</a></li>
+                        <li><a href="#profil">Profil</a></li>
+                        <li><a href="#program">Program</a></li>
+                        <li><a href="#daftar">Daftar</a></li>
                     </ul>
                 </nav>
             </header>
@@ -18,7 +18,7 @@ export default function PageGanjil(goToHome) {
                     <p>
                         Bersama membangun masa depan dengan teknologi terbarukan dan mengedepankan hak-hak lingkungan.
                     </p>
-                    <a href="profil" className="py-2 px-6 bg-amber-100 text-gray-900 rounded-sm font-semibold"> Baca Selengkapnya</a>
+                    <a href="#profil" className="py-2 px-6 bg-amber-100 text-gray-900 rounded-sm font-semibold"> Baca Selengkapnya</a>
                 </div>
             </section>
 
@@ -37,7 +37,7 @@ export default function PageGanjil(goToHome) {
                         Peserta didik TKJ juga akan diajarkan tentang keamanan informasi dan manajemen risiko, mempersiapkan mereka untuk menghadapi tantangan keamanan siber yang terus berkembang. Mereka akan terlibat dalam praktik kerja industri yang memberikan pengalaman langsung dalam menghadapi situasi dunia nyata dalam dunia teknologi.
                     </p>
                 </div>
-                <div className="w-[30%] items-center justify-center">
+                <div className="w-[30%]  items-center justify-center">
                     <img src="\TLNT_TKJ.png" alt="siswa TKJ" className="w-[85%] h-auto" />
                 </div>
             </section>
