@@ -16,6 +16,7 @@ function App() {
           <div className='gap-y-2 mb-6'>
             <h1 className="text-4xl font-bold">Ujian Praktik Kelas X TKJ</h1>
             <p className='text-lg text-center'>Pilih soal sesuai nomor urut absen kelasmu.</p>
+            <a href="https://drive.google.com/drive/folders/1rPk9t59BmoPQJP4A_laKPHPwvVheMPRi?usp=sharing" className='text-sm font-medium text-green-800 hover:text-teal-400'>asset gambar+catatan</a>
           </div>
 
           <div className="flex gap-6">
